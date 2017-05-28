@@ -1,5 +1,5 @@
 <?php
-$mysqli = new mysqli("mysql1.000webhost.com", "a2444279_conekt", "qwertypads@111","a2444279_conekt");
+$mysqli = new mysqli("localhost", "root", "password","database name");
  
 
 //Username of the Administrator
